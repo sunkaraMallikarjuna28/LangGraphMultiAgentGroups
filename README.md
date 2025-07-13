@@ -109,3 +109,5 @@ Scalable → Easy to add new specialists
 Smart → Agents know when to ask for help
 
 Bottom Line: Your code creates a team of AI specialists that work together seamlessly - just like a well-coordinated team in real life!
+
+check output.md for more info 
